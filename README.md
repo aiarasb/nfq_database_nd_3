@@ -1,4 +1,4 @@
-Aivaras Baranauskas, Kaunas, 4gr.
+Aivaras Baranauskas, Kaunas, 1gr.
 
 Trečia duomenų bazių namų darbų užduotis.
 
